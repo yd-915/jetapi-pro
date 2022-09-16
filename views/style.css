@@ -1,0 +1,75 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: linear-gradient(to top, #F8DDA2 , #232A6A  ); 
+  background-size: cover;
+  background-position:center ;
+}
+
+h1{
+  font-size: 90px;
+  text-align: center;
+  font-family: monospace;
+  color: hsl(0, 0%, 100%);
+  letter-spacing: 3px
+}
+p{
+  font-size: 20px;
+  text-align: center;
+  font-family: monospace;
+  color: hsl(0, 0%, 100%);
+  letter-spacing: 3px
+}
+a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 15px;
+}
+.twirl{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  transform-style: preserve-3d;
+  animation: animate 30s linear infinite;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+@keyframes animate {
+  0% {
+      transform: perspective(1000px) rotateY(0deg);
+  }
+  100% {
+      transform: perspective(1000px) rotateY(-370deg);
+  }
+}
+.twirl span{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left:0;
+  right:0;
+  top:0;
+  transform-style: preserve-3d;
+  transform-origin: center;
+  transform: rotateY(calc(var(--i)*45deg) translatez(370px));
+}
+.twirl span img{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top:0;
+  left:0;
+  object-fit: cover;
+  border-radius: 20px;
+  transition: 1.5s;
+background-color: rgba(0, 0, 0, 0);
+}
+.twirl span img:hover{
+  transform: translateY(30px) scale(1.2);
+  cursor: pointer;
+}
