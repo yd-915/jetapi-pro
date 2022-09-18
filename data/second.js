@@ -265,7 +265,7 @@ const second =
         "Retired": "1995",
         "Weight": "3,100 kg",
         "Lenght": "10.3 m",
-        "Wingspan": "8.56m",
+        "Wingspan": "8.56 m",
         "Units": "770",
         "Range": "1,150 km",
         "Top Speed": "1,075 km/h",
@@ -278,8 +278,33 @@ const second =
           "Italy",
           "Greece",
           "Portugal",
-         
-         
+             
+       
+      ],
+        
+      },
+    ]
+  },
+   {
+    "Plane": "Saab Lansen 32",
+    "results": [
+      {
+        "Definition": "Two-seat, high transsonic attack aircraft",
+        "Introduction": "1956",
+        "National Origin": "Sweden",
+        "First flight": "3 November 1952",
+        "Retired": "1997",
+        "Weight": "7,500 kg",
+        "Lenght": "14.94 m",
+        "Wingspan": "13.0 m",
+        "Units": "450",
+        "Range": "2,000 km",
+        "Top Speed": "1,200 km/h",
+        "Engine type": "Svenska Flygmotor RM 6A",
+        "Manufacturer(s)": "SAAB",
+        "image": "https://imgs.search.brave.com/fwW7631tdn7ghQ1S7wwmMstbgLSPfJAUgPtsGaNjIC0/rs:fit:682:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/WUpIeE44dER1ZmZ5/UEtScXNOTnVnSGFG/SiZwaWQ9QXBp",
+        "Countries used": [
+          "Sweden",
        
       ],
         
