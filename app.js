@@ -5,7 +5,10 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var favicon = require('serve-favicon');
 
+var Publishable_Key = 'pk_live_51LjZ3dEBctJ3Pe3kLBlnc15bQaFt8JwTHFI8Y25au2gyBMJ2Exdtm2TsgjT3tPYJeVN4rSesrhbadgVahGduAd2J00SwxSekUC';
+var Secret_Key = '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';
 
+var stripe = require('stripe')(Secret_Key)
 
 var indexRouter = require('./routes/index');
 var fundamentalRouter = require('./routes/fundamentals');
@@ -52,5 +55,44 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500);
   res.render('error');
 });
+
+app.get('/', function(req, res){
+    res.render('Home', {
+    key: Publishable_Key
+    })
+})
+ 
+app.post('/payment', function(req, res){
+ 
+    // Moreover you can take more details from user
+    // like Address, Name, etc from form
+    stripe.customers.create({
+        email: req.body.stripeEmail,
+        source: req.body.stripeToken,
+        name: '',
+        address: {
+            line1: '',
+            postal_code: '',
+            city: '',
+            state: '',
+            country: '',
+        }
+    })
+    .then((customer) => {
+ 
+        return stripe.charges.create({
+            amount: 70,    // Charing Rs 25
+            description: 'REST API',
+            currency: 'CAD',
+            customer: customer.id
+        });
+    })
+    .then((charge) => {
+        res.send("Success") // If no error occurs
+    })
+    .catch((err) => {
+        res.send(err)    // If some error occurs
+    });
+})
 
 module.exports = app;
