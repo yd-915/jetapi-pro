@@ -5,7 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var favicon = require('serve-favicon');
 
-var stripe = require('stripe')(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)
+var stripe = require('stripe')('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')
 
 var indexRouter = require('./routes/index');
 var fundamentalRouter = require('./routes/fundamentals');
