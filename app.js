@@ -5,10 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var favicon = require('serve-favicon');
 
-var Publishable_Key = 'pk_live_51LjZ3dEBctJ3Pe3kLBlnc15bQaFt8JwTHFI8Y25au2gyBMJ2Exdtm2TsgjT3tPYJeVN4rSesrhbadgVahGduAd2J00SwxSekUC'
-var Secret_Key = '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'
-
-var stripe = require('stripe')(Secret_Key)
+var stripe = require('stripe')(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)
 
 var indexRouter = require('./routes/index');
 var fundamentalRouter = require('./routes/fundamentals');
@@ -58,7 +55,7 @@ app.use(function(err, req, res, next) {
 
 app.get('/', function(req, res){
     res.render('Home', {
-    key: Publishable_Key
+    key: pk_live_51LjZ3dEBctJ3Pe3kLBlnc15bQaFt8JwTHFI8Y25au2gyBMJ2Exdtm2TsgjT3tPYJeVN4rSesrhbadgVahGduAd2J00SwxSekUC
     })
 })
  
