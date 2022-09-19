@@ -1,3 +1,3 @@
 # jetapi-pro
 
-pro version of jetionary
+pro version of the jetionary api
