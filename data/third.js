@@ -145,9 +145,9 @@ const third =
         "First flight": "26 December 1956",
         "Retired": "August 1986",
         "Weight": "23,760 lbs",
-        "Length": "22 m"
+        "Length": "22 m",
         "Wingspan": "12 m",
-         "Units": "1,290",
+        "Units": "1,290",
         "Range": "2,897 km",
         "Top Speed": "2,455 km/h",
         "Engine type": "Pratt & Whitney J75-P-17",
@@ -164,18 +164,133 @@ const third =
     "Plane": "VFW VAK 191B",
     "results": [
       {
-        "definition": " German VTOL nuclear strike fighter",
+        "Definition": "German VTOL nuclear strike fighter",
+        "Introduction": "1969",
+        "National Origin": "Germany",
         "First flight": "20 September 1971",
         "Retired": "March 2011",
-        "weight": "5,562 kg",
-        "wingspan": "6.16 m",
+        "Weight": "5,562 kg",
+        "Length": "16.4 m",
+        "Wingspan": "6.16 m",
+        "Units": "3",
         "Range": "400 km",
         "Top Speed": "1,108 km/h",
         "Engine type": "Rolls-Royce RB.162, Rolls-Royce/MAN Turbo RB.193",
         "Manufacturer(s)": "Vereinigte Flugtechnische Werke",
-        "image": "https://imgs.search.brave.com/NTcVRs6LPLICU4bGnRUeVoDoK7iGZ-2dTA-MC1tuepM/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/OHhDeWpxNzd3SUlR/X2xkcVZFem1nSGFF/OCZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/NTcVRs6LPLICU4bGnRUeVoDoK7iGZ-2dTA-MC1tuepM/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/OHhDeWpxNzd3SUlR/X2xkcVZFem1nSGFF/OCZwaWQ9QXBp",
         "Countries used": [
         "Germany",
+ 
+      ],
+        
+      },
+    ]
+  },
+   {
+    "Plane": "Saab 37 Viggen",
+    "results": [
+      {
+        "Definition": "Swedish single-seat, single-engine, short-medium range fighter and attack aircraft",
+        "Introduction": "1971",
+        "National Origin": "Sweden",
+        "First flight": "8 February 1967",
+        "Retired": "25 November 2005",
+        "Weight": "9,500 kg",
+        "Length": "16.4 m",
+        "Wingspan": "10.6 m",
+        "Units": "329",
+        "Range": "2,000 km",
+        "Top Speed": "1,108 km/h",
+        "Engine type": "Volvo RM8",
+        "Manufacturer(s)": "Saab",
+        "Image": "https://imgs.search.brave.com/Pu5SUXTnFYTtwjbWR-iT3_QSBqltW6OcvQn-gT5vfRw/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5V/TE1TNU83UzljT2FZ/dFRqN1RhalF3SGFF/SyZwaWQ9QXBp",
+        "Countries used": [
+        "Sweden",
+ 
+      ],
+        
+      },
+    ]
+  },
+  {
+    "Plane": "Northrop F-5",
+    "results": [
+      {
+        "Definition": "Swedish single-seat, single-engine, short-medium range fighter and attack aircraft",
+        "Introduction": "1971",
+        "National Origin": "Sweden",
+        "First flight": "8 February 1967",
+        "Retired": "25 November 2005",
+        "Weight": "9,500 kg",
+        "Length": "16.4 m",
+        "Wingspan": "10.6 m",
+        "Units": "329",
+        "Range": "2,000 km",
+        "Top Speed": "1,108 km/h",
+        "Engine type": "Volvo RM8",
+        "Manufacturer(s)": "Saab",
+        "Image": "https://imgs.search.brave.com/mZXXE1ztdjYhVkYZ5ei69Enu7y19DK-2hLvduRuASCw/rs:fit:702:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/eGZiaVJoVGdCVWdT/dFNfT3E4SzBBSGFG/QSZwaWQ9QXBp",
+        "Countries used": [
+        "Sweden",
+ 
+      ],
+        
+      },
+    ]
+  },
+  
+  {
+    "Plane": "Mikoyan-Gurevich MiG-25",
+    "results": [
+      {
+        "Definition": "Supersonic interceptor and reconnaissance aircraft",
+        "Introduction": "1970",
+        "National Origin": "Soviet Union",
+        "First flight": "6 March 1964",
+        "Retired": "N/A",
+        "Weight": "20,000 kg",
+        "Length": "19.75 m",
+        "Wingspan": "14.01 m",
+        "Units": "1,186",
+        "Range": "1,730 km",
+        "Top Speed": "1,700 km/h",
+        "Engine type": "Tumansky R-15B-300",
+        "Manufacturer(s)": "Northrop Corporation",
+        "Image": "https://imgs.search.brave.com/Yaw8GBgCT561yK6IqdPfisupcCHoOYNz5YvX5TlPbdI/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/MWVZYzY0SVdaTDY2/bjhMcTFOa2hBSGFF/NyZwaWQ9QXBp",
+        "Countries used": [
+        "Algeria",
+        "Armenia",
+        "Russia",
+        "Syria",
+        "Turkmenistan",
+ 
+      ],
+        
+      },
+    ]
+  },
+  
+  {
+    "Plane": "British Aerospace Harrier II",
+    "results": [
+      {
+        "Definition": "Swedish single-seat, single-engine, short-medium range fighter and attack aircraft",
+        "Introduction": "1989",
+        "National Origin": "U.K./U.S.A.",
+        "First flight": "30 April 1985",
+        "Retired": "March 2011 ",
+        "Weight": "5,700 kg",
+        "Length": "14.12 m",
+        "Wingspan": "9.25 m",
+        "Units": "1,204",
+        "Range": "1,667 km",
+        "Top Speed": "1,065 km/h",
+        "Engine type": "Rolls-Royce Pegasus Mk. 105",
+        "Manufacturer(s)": "British Aerospace/McDonnell Douglas/BAE Systems/Boeing",
+        "Image": "https://imgs.search.brave.com/a0g2d3rC0BxivCcPhRwi-m0-bHEOcEsI_bBa5sQSC0o/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly9pbWFn/ZXM1LmFscGhhY29k/ZXJzLmNvbS85NzUv/dGh1bWItMTkyMC05/NzU5MDYuanBn",
+        "Countries used": [
+        "U.K.",
+       
  
       ],
         
