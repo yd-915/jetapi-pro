@@ -18,6 +18,8 @@ a(href='/intermediate') INTERMEDIATE
 a(href='/advanced') ADVANCED
 a(href='/elite') ELITE
 a(href='/ultimate') ULTIMATE
+
+script.stripe-button(src='//checkout.stripe.com/v2/checkout.js' data-key='<%= key %>' data-amount='0.05' data-currency='cad' data-name='Iftiin' data-description='Jetapi - PRO version' data-locale='auto')
 .twirl
     span(style='--i:1')
     img(src='https://i.ibb.co/026qxxj/jet.png')
