@@ -3,7 +3,7 @@ var router = express.Router();
 var checkout = require('../views/checkout');
 
 /* GET users listing. */
-router.get('/checkout', function(req, res, next) {
+router.get('/', function(req, res, next) {
   res.json(checkout);
 });
 
