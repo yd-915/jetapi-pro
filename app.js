@@ -5,8 +5,6 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var favicon = require('serve-favicon');
 
-var stripe = require('stripe')('sk_test_51LjZ3dEBctJ3Pe3kQJkBj4lLj6PlCqHudQRFbtCQP6JhqRSoY3pEo8dU4GzgpBhPWqbEDvrgR44CP0hHIx1zrec600Zbj9yzB1')
-
 var indexRouter = require('./routes/index');
 var fundamentalRouter = require('./routes/fundamentals');
 var intermediateRouter = require('./routes/intermediate');
@@ -53,43 +51,6 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-app.get('/', function(req, res){
-    res.render('Home', {
-    key: pk_test_51LjZ3dEBctJ3Pe3kmAXN9Q6SjgRhc8RcpVeEyT0BJI078YiWN3bZ2M8NRV9MBSRI8nnbU7gHo5GunoLEKnnsKI3Z00Vitci1VD
-    })
-})
- 
-app.post('/payment', function(req, res){
- 
-    // Moreover you can take more details from user
-    // like Address, Name, etc from form
-    stripe.customers.create({
-        email: req.body.stripeEmail,
-        source: req.body.stripeToken,
-        name: '',
-        address: {
-            line1: '',
-            postal_code: '',
-            city: '',
-            state: '',
-            country: '',
-        }
-    })
-    .then((customer) => {
- 
-        return stripe.charges.create({
-            amount: 70,    // Charing Rs 25
-            description: 'REST API',
-            currency: 'CAD',
-            customer: customer.id
-        });
-    })
-    .then((charge) => {
-        res.send("Success") // If no error occurs
-    })
-    .catch((err) => {
-        res.send(err)    // If some error occurs
-    });
-})
+
 
 module.exports = app;
