@@ -11,7 +11,7 @@ var intermediateRouter = require('./routes/intermediate');
 var advancedRouter = require('./routes/advanced');
 var eliteRouter = require('./routes/elite');
 var ultimateRouter = require('./routes/ultimate');
-var checkoutRouter = require('./routes/checkout');
+var checkoutRouter = require('./views/checkout');
 
 var app = express();
 
