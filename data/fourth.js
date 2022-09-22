@@ -301,6 +301,95 @@ const fourth =
       },
     ]
   },
+    {
+    "Plane": "Grumman F-14 Tomcat",
+    "results": [
+      {
+        "definition": "Long-range interceptor aircraft",
+        "Introduction":"1974",
+        "National Origin": "U.S.A.",
+        "First flight": "21 December 1970",
+        "Retired": "2006",
+        "weight": "18,190 kg",
+        "Length": "19 m",
+        "wingspan": "17.53 m",
+        "Units": "712",
+        "Range": "2,963 km",
+        "Top Speed": "2,485 km/h",
+        "Engine type": "General Electric F110",
+        "Manufacturer(s)": "Grumman",
+        "image": "https://imgs.search.brave.com/o8Z9K_LuXG7LV408AvQnuGUpCi5eyfrIqUqFs3xuRmk/rs:fit:729:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/b2p1V0RVMmY1cFhO/Tm9DQ2EwbFNRSGFF/MCZwaWQ9QXBp",
+        "Countries used": [
+          "U.S.A.",
+          "Iran"
+         
+      ],
+        
+      },
+    ]
+  },
+  
+   {
+    "Plane": "Panavia Tornado ADV",
+    "results": [
+      {
+        "definition": "Long-range, twin-engine interceptor",
+        "Introduction":"1985",
+        "National Origin": "Soviet Union",
+        "First flight": "27 October 1979",
+        "Retired": "N/A",
+        "weight": "14,500 kg",
+        "Length": "18.68 m,
+        "wingspan": "17.53 m",
+        "Units": "218",
+        "Range": "3,890 km",
+        "Top Speed": "2,338 km/h",
+        "Engine type": "Turbo-Union RB199",
+        "Manufacturer(s)": "Panavia Aircraft GmbH, British Aerospace",
+        "image": "https://imgs.search.brave.com/PHtViRTLkGMCMq2h-ZmTajMD9PXlsDp72p3pq1xBSCs/rs:fit:649:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/bGU2SlhOREdIcl9f/dmxZbFp2bUJ3SGFG/YSZwaWQ9QXBp",
+        "Countries used": [
+          "Saudi Arabia",
+          "U.K.",
+          "Italy",
+         
+      ],
+        
+      },
+    ]
+  },
+      {
+    "Plane": "McDonnell Douglas F/A-18 Hornet",
+    "results": [
+      {
+        "definition": "Long-range interceptor aircraft",
+        "Introduction":"1974",
+        "National Origin": "U.S.A.",
+        "First flight": "21 December 1970",
+        "Retired": "2006",
+        "weight": "23,000 lb ",
+        "Length": "17.1 m",
+        "wingspan": "17.53 m",
+        "Units": "608+",
+        "Range": "2,000 km",
+        "Top Speed": "1,915 km/h",
+        "Engine type": "General Electric F110",
+        "Manufacturer(s)": "McDonnell Douglas, Northrop Corporation",
+        "image": "https://imgs.search.brave.com/o8Z9K_LuXG7LV408AvQnuGUpCi5eyfrIqUqFs3xuRmk/rs:fit:729:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/b2p1V0RVMmY1cFhO/Tm9DQ2EwbFNRSGFF/MCZwaWQ9QXBp",
+        "Countries used": [
+          "U.S.A.",
+          "Switzerland",
+          "Finland",
+          "Malaysia",
+          "Kuwait",
+          "Spain",
+          "Canada",
+          "Australia"
+         
+      ],
+        
+      },
+    ]
+  },
 ]
 
 module.exports = fourth;
