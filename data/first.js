@@ -57,7 +57,7 @@ const first =
         "Units": "13,130 + 4,180 under licence",
         "Engine type": "Klimov VK-1",
         "Manufacturer(s)": "Mikoyan-Gurevich",
-        "image": "https://imgs.search.brave.com/dW19233CngRzs6pVbyCdY_jgu4bzrWujWHrX7GWp8ZM/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/d0s0bHJXa0RuZFNG/THFSTDZQcy1nSGFF/SyZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/dW19233CngRzs6pVbyCdY_jgu4bzrWujWHrX7GWp8ZM/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/d0s0bHJXa0RuZFNG/THFSTDZQcy1nSGFF/SyZwaWQ9QXBp",
         "Countries used": [
           "Afghanistan",
           "Albania",
@@ -83,7 +83,7 @@ const first =
     "Plane": "MIG-17",
     "results": [
       {
-        "definition": "High-subsonic fighter aircraft.",
+        "Definition": "High-subsonic fighter aircraft.",
         "First flight": "January 14, 1950",
         "Introduction": "1952",
         "National Origin": "Soviet Union",
@@ -96,7 +96,7 @@ const first =
         "Units": "10,649",
         "Engine type": "Klimov VK-1",
         "Manufacturer(s)": "Mikoyan-Gurevich",
-        "image": "https://imgs.search.brave.com/jkEFd2Hh-2SxPemN_-jMMpymJ2TfpsEUeD7SoOrZFMg/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5F/bGFkYl8wUG5WVTV2/LUhmYXBfLWZ3SGFF/NyZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/jkEFd2Hh-2SxPemN_-jMMpymJ2TfpsEUeD7SoOrZFMg/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5F/bGFkYl8wUG5WVTV2/LUhmYXBfLWZ3SGFF/NyZwaWQ9QXBp",
         "Countries used": [
           "Afghanistan",
           "Albania",
@@ -122,7 +122,7 @@ const first =
     "Plane": "Gloster Meteor",
     "results": [
       {
-        "definition": "British jet fighter and the Allies' only jet aircraft during the Second World War.",
+        "Definition": "British jet fighter and the Allies' only jet aircraft during the Second World War.",
         "First flight": "March 5, 1943",
         "Introduction": "1944",
         "National Origin": "U.K",
@@ -135,7 +135,7 @@ const first =
         "Numbers Built": "3,947",
         "Engine type": "Rolls-Royce RB.50 Trent",
         "Manufacturer(s)": "Gloster Aircraft Company",
-       "image": "https://imgs.search.brave.com/wH_21WWzyr7eLAGG6MkHGjaXHWt2hUURh2eRi1MMSVc/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5r/SS1wbTJnc1h0X1Qw/dy1zTktsUm5BSGFF/OCZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/wH_21WWzyr7eLAGG6MkHGjaXHWt2hUURh2eRi1MMSVc/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5r/SS1wbTJnc1h0X1Qw/dy1zTktsUm5BSGFF/OCZwaWQ9QXBp",
         "Countries used": [
           "Argentina",
           "Australia",
@@ -161,7 +161,7 @@ const first =
     "Plane": "Messerschmitt Me 262",
     "results": [
       {
-        "definition": "World's first operational jet-powered fighter aircraft.",
+        "Definition": "World's first operational jet-powered fighter aircraft.",
         "Introduction": "1944",
         "National Origin": "Germany",
         "First flight": "18 April 1941",
@@ -174,7 +174,7 @@ const first =
         "Units": "1,443",
         "Engine type": "Junkers Jumo 004 B",
         "Manufacturer(s)": "Messerschmitt",
-        "image": "https://imgs.search.brave.com/FFJb8fwqzxbkqoc4TeTscz3DhN7rqbejS2lAS95t6kE/rs:fit:748:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5E/M0FKclZKRG5veXdF/dVYzakhUYUJ3SGFF/cyZwaWQ9QXBp",        
+        "Image": "https://imgs.search.brave.com/FFJb8fwqzxbkqoc4TeTscz3DhN7rqbejS2lAS95t6kE/rs:fit:748:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5E/M0FKclZKRG5veXdF/dVYzakhUYUJ3SGFF/cyZwaWQ9QXBp",        
         "Countries used": [  
           "Germany",
           "Czechoslovakia",   
@@ -187,7 +187,7 @@ const first =
     "Plane": "Lockheed P-80 Shooting Star2",
     "results": [
       {
-        "definition": "First jet fighter used operationally by the United States Army Air Forces (USAAF) during World War II.",
+        "Definition": "First jet fighter used operationally by the United States Army Air Forces (USAAF) during World War II.",
         "Introduction": "1945",
         "National Origin": "U.S.A",
         "First flight": "8 January 1944 ",
@@ -200,7 +200,7 @@ const first =
         "Units": "1,715",
         "Engine type": "Allison J33",
         "Manufacturer(s)": "Lockheed",
-        "image": "https://imgs.search.brave.com/exQ8tXzhxuUevN60N-tygNAcGnq7hPs6PM36BlGLbPo/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/MmhTOUFoVVlfV1pH/bWpRYlVwT29RSGFF/eSZwaWQ9QXBp",       
+        "Image": "https://imgs.search.brave.com/exQ8tXzhxuUevN60N-tygNAcGnq7hPs6PM36BlGLbPo/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/MmhTOUFoVVlfV1pH/bWpRYlVwT29RSGFF/eSZwaWQ9QXBp",       
         "Countries used": [
           "Brazil",
           "Chile",
@@ -218,7 +218,7 @@ const first =
     "Plane": "Avro Canada CF-100 Canuck",
     "results": [
       {
-        "definition": "Japan's first jet-powered aircraft",
+        "Definition": "Japan's first jet-powered aircraft",
         "Introduction": "1952",
         "National Origin": "Canada",
         "First flight": "19 January 1950",
@@ -231,7 +231,7 @@ const first =
         "Units": "692",
         "Engine type": "Avro Canada Orenda 11",
         "Manufacturer(s)": "Avro Canada",
-        "image": "https://imgs.search.brave.com/0GZf8jvpQsXTqQDFGi2tBCSZcu69n4EvsWgDfNJvZG4/rs:fit:702:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/OWVFTTFVN0pZT2hC/TVpJYjY4b3NBSGFG/QSZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/0GZf8jvpQsXTqQDFGi2tBCSZcu69n4EvsWgDfNJvZG4/rs:fit:702:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/OWVFTTFVN0pZT2hC/TVpJYjY4b3NBSGFG/QSZwaWQ9QXBp",
         "Countries used": [
           "Germany",
           "Czechoslovakia",
@@ -260,7 +260,7 @@ const first =
         "Units": "411",
         "Engine type": "SNECMA Atar 101D",
         "Manufacturer(s)": "Dassault",
-        "image": "https://imgs.search.brave.com/BhtaWWFsKrQMbLunG2OzD4BOasjgjBf9VM8wobMWA_s/rs:fit:615:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/clVkemFPcE1FZFJE/YldmUHRUTDRRSGFG/dCZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/BhtaWWFsKrQMbLunG2OzD4BOasjgjBf9VM8wobMWA_s/rs:fit:615:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/clVkemFPcE1FZFJE/YldmUHRUTDRRSGFG/dCZwaWQ9QXBp",
         "Countries used": [
           "France",
           "Israel",
@@ -286,7 +286,7 @@ const first =
         "Units": "64",
         "Engine type": "de Havilland Goblin 2",
         "Manufacturer(s)": "Saab",
-        "image": "https://imgs.search.brave.com/txc0O8F0i-U4hz3IHm18btn7WFo8Xtun3J3gJq_qbjU/rs:fit:634:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/LThJWXNIa1I2REpI/SEpSdDI4c0F3SGFG/aSZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/txc0O8F0i-U4hz3IHm18btn7WFo8Xtun3J3gJq_qbjU/rs:fit:634:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/LThJWXNIa1I2REpI/SEpSdDI4c0F3SGFG/aSZwaWQ9QXBp",
         "Countries used": [
           "Sweden",
       ],
@@ -311,7 +311,7 @@ const first =
         "Units": "3,268",
         "Engine type": "de Havilland Goblin 3",
         "Manufacturer(s)": "de Havilland English Electric",
-        "image": "https://imgs.search.brave.com/ho0W73AmyhaAJUwBtsC6A7tB6JRuAAHVMsz7_aHbJGk/rs:fit:791:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/Y1ZQTEFTNzJVUXFt/RU4xb2gzSmd3SGFF/YyZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/ho0W73AmyhaAJUwBtsC6A7tB6JRuAAHVMsz7_aHbJGk/rs:fit:791:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/Y1ZQTEFTNzJVUXFt/RU4xb2gzSmd3SGFF/YyZwaWQ9QXBp",
         "Countries used": [
           "U.K.",
           "Austria",
@@ -363,7 +363,7 @@ const first =
         "Units": "1,382",
         "Engine type": "Pratt & Whitney J42-P-6/P-8",
         "Manufacturer(s)": "Grumman",
-        "image": "https://imgs.search.brave.com/FXL1NLE_O6SSCJQ9CkpK9uEhlQ-1VeVTosX-7WAXGBM/rs:fit:689:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/Ulc1M1lDeVROUmlh/RkN2NXhuRElBSGFG/RyZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/FXL1NLE_O6SSCJQ9CkpK9uEhlQ-1VeVTosX-7WAXGBM/rs:fit:689:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/Ulc1M1lDeVROUmlh/RkN2NXhuRElBSGFG/RyZwaWQ9QXBp",
         "Countries used": [
           "U.S.A.",
           "Argentina",
@@ -376,7 +376,7 @@ const first =
     "Plane": "Grumman F9F Panther",
     "results": [
       {
-        "Definition": "British jet fighter commissioned by the Royal Air Force during the Second World War.",
+        "Definition": "Carrier-based jet fighter",
         "Introduction": "1945",
         "National Origin": "U.S.A.",
         "First flight": "24 November 1947",
@@ -389,7 +389,7 @@ const first =
         "Units": "1,382",
         "Engine type": "Pratt & Whitney J42-P-6/P-8",
         "Manufacturer(s)": "Grumman",
-        "image": "https://imgs.search.brave.com/FXL1NLE_O6SSCJQ9CkpK9uEhlQ-1VeVTosX-7WAXGBM/rs:fit:689:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/Ulc1M1lDeVROUmlh/RkN2NXhuRElBSGFG/RyZwaWQ9QXBp",
+        "Image": "https://imgs.search.brave.com/FXL1NLE_O6SSCJQ9CkpK9uEhlQ-1VeVTosX-7WAXGBM/rs:fit:689:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/Ulc1M1lDeVROUmlh/RkN2NXhuRElBSGFG/RyZwaWQ9QXBp",
         "Countries used": [
           "U.S.A.",
           "Argentina",
