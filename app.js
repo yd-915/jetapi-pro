@@ -11,7 +11,7 @@ var intermediateRouter = require('./routes/intermediate');
 var advancedRouter = require('./routes/advanced');
 var eliteRouter = require('./routes/elite');
 var ultimateRouter = require('./routes/ultimate');
-var checkoutRouter = require('./views/checkout');
+
 
 var app = express();
 
@@ -33,7 +33,7 @@ app.use('/intermediate', intermediateRouter);
 app.use('/advanced', advancedRouter);
 app.use('/elite', eliteRouter);
 app.use('/ultimate', ultimateRouter);
-app.use('/checkout', checkoutRouter);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
